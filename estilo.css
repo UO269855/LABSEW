@@ -1,6 +1,6 @@
 /* Specificity (0,0,1)*/
 body {
-    font: 400 18px "Comic Sans MS"; /*Familia sans-serif*/
+    font: 400 1.25rm "Comic Sans MS"; /*Familia sans-serif*/
     line-height: 1.8;
     color: #000000;
     background-color:rgb(173, 173, 173);
@@ -12,7 +12,7 @@ h1 {
     background-color:#ffa9d4;
     color: rgb(0, 0, 0);
     text-transform: uppercase;
-    padding: 25px 25px;
+    padding: 1.25rm 1.25rm;
     text-align: center;
     border-radius: 1.25rm;
     margin-left: 12.5rm;
@@ -30,10 +30,10 @@ h2 {
 nav {
     background-color:#ffce85;
     color: rgb(0, 0, 0);
-    font: 400 18px "Comic Sans MS"; /*Familia sans-serif*/
+    font: 400 1.25rm "Comic Sans MS"; /*Familia sans-serif*/
     padding: 1.25rm 1.25rm;
     text-align: center;
-    border-radius: 20px;
+    border-radius: 1.25rm;
     margin-left: 12.5rm;
     margin-right: 12.5rm;
 }
